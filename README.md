@@ -2,6 +2,10 @@
 
 A fun and addictive web-based game where you slice falling fruits with your mouse! Test your reflexes and aim for the highest score before running out of lives.
 
+## 🌐 Live Demo
+
+Play the game online: [https://iam269.github.io/Fruit-Slicer-Game/](https://iam269.github.io/Fruit-Slicer-Game/)
+
 ## 🎮 How to Play
 
 - Click "Start Game" to begin
