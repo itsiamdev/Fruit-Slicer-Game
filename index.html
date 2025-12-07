@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fruit Slicer Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="lemon-slice.png">
+</head>
+<body>
+<div id="container">
+  <div id="instructions">
+    Slice Fruits
+  </div>
+  <div id="fruitcontainer">
+    <div id="score">
+      <div class="scoreDisplay">
+        <img decoding="async" src="https://raw.githubusercontent.com/Saumya-07/Fruit-Slicer/master/images/scr.png" alt="" />
+        <span id="scoreValue">0</span>
+      </div>
+    </div>
+    <div id="trialsleft"></div>
+    <div id="front">
+      Are you ready for the ultimate slice action ? <br />
+      <img decoding="async" src="https://raw.githubusercontent.com/Saumya-07/Fruit-Slicer/master/images/splash.png" alt="Fruit logo" />
+    </div>
+    <img id="fruit1" class="fruit" />
+  </div>
+  <div id="startReset">
+    Start Game
+  </div>
+  <!--for game over block-->
+  <div id="gameOver"></div>
+</div>
+<!--for audio files-->
+<audio id="slicesound">
+  <source src="https://raw.githubusercontent.com/Saumya-07/Fruit-Slicer/master/audio/slice.mp3" type="audio/mpeg">
+</audio>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
