@@ -4,7 +4,7 @@ A fun and addictive web-based game where you slice falling fruits with your mous
 
 ## 🌐 Live Demo
 
-Play the game online: [https://iam269.github.io/Fruit-Slicer-Game/](https://iam269.github.io/Fruit-Slicer-Game/)
+Play the game online: [https://itsiamdev.github.io/Fruit-Slicer-Game/](https://itsiamdev.github.io/Fruit-Slicer-Game/)
 
 ## 🎮 How to Play
 
